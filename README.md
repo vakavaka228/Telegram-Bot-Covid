@@ -1,2 +1,3 @@
 # Telegram-Bot-Covid
-Coronavirus Bot
+Dependencies: node js
+\_(*_*)_/
